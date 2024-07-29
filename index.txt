@@ -31,7 +31,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse Excepteur sint oc
 Our Services
 <span class="material-symbols-rounded">arrow_forward</span>
 
-alt = red motor vehicle
+alt = blue motor vehicle
 
 
 
